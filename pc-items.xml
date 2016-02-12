@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <!-- MONSTERS -->
+  <!-- Items -->
+	<item>
+		<name>Warpick of Wounding</name>
+		<type>M</type>
+		<weight>2</weight>
+		<dmg1>1d8</dmg1>
+		<dmgType>P</dmgType>
+		<property>F</property>
+		<text>Requires Attunement</text>
+		<text>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target.</text>
+    <text>At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</text>
+		<text/>
+		<text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.</text>
+		<text/>
+		<text>Source: Etienne van Delden</text>
+		<roll>1d4</roll>
+	</item>
+	<item>
+		<name>Hunters Sniper Rifle</name>
+		<type>R</type>
+		<weight>2</weight>
+		<dmg1>1d8</dmg1>
+		<dmgType>P</dmgType>
+		<property>A,H,2H</property>
+		<range>150/600</range>
+		<text>Requires Attunement</text>
+		<text>	When you look through the sight on this rifle, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later.</text>
+    <text> You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.</text>
+		<text>When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll.</text>
+		<text>While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.</text>
+		<text/>
+		<text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.</text>
+		<text>If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon.</text>
+		<text/>
+		<text>Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.</text>
+		<text/>
+		<text>Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range</text>
+		<text/>
+		<text>Two-Handed: This weapon requires two hands to use.</text>
+		<text/>
+		<text>Source: Etienne van Delden</text>
+	</item>
+  <item>
+		<name>Teapot of Endless Chinese Tea</name>
+		<type>W</type>
+		<weight>2</weight>
+		<text>This teapot sloshes when shaken, as if it contains tea. The teapot weighs 2 pounds.</text>
+		<text>You can use an action to speak one of four command words, whereupon an amount of hot tea pours out of the teapot. The tea stops pouring out at the start of your next turn. Choose from the following options:</text>
+    <text>• "杯 Bei (Cup)" produces enough tea for 1 cup.</text>
+		<text>• "流 Liu (Stream)" produces 1 gallon of water.</text>
+		<text>• "喷泉 Penquan  (Fountain)" produces 5 gallons of water.</text>
+		<text>• "热水器 Rèshuǐqì (Geyser)" produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.</text>
+		<text/>
+		<text>Source: Etienne van Delden</text>
+		<roll>1d4</roll>
+	</item>
+  <!-- Spells -->
+
+</compendium>
