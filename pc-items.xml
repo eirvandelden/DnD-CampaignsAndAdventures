@@ -50,9 +50,9 @@
 		<text>This teapot sloshes when shaken, as if it contains tea. The teapot weighs 2 pounds.</text>
 		<text>You can use an action to speak one of four command words, whereupon an amount of hot tea pours out of the teapot. The tea stops pouring out at the start of your next turn. Choose from the following options:</text>
     <text>• "杯 Bei (Cup)" produces enough tea for 1 cup.</text>
-		<text>• "流 Liu (Stream)" produces 1 gallon of water.</text>
-		<text>• "喷泉 Penquan  (Fountain)" produces 5 gallons of water.</text>
-		<text>• "热水器 Rèshuǐqì (Geyser)" produces 30 gallons of water that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the decanter, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.</text>
+		<text>• "流 Liu (Stream)" produces 1 gallon of tea.</text>
+		<text>• "喷泉 Penquan  (Fountain)" produces 5 gallons of tea.</text>
+		<text>• "热水器 Rèshuǐqì (Geyser)" produces 30 gallons of tea that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the teapot, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.</text>
 		<text/>
 		<text>Source: Etienne van Delden</text>
 		<roll>1d4</roll>
