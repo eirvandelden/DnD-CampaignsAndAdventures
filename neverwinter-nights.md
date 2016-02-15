@@ -6,21 +6,32 @@ I have tried to keep this campaign system-agnostic. I happen to have played this
 
 If you are a D&D fan and haven't played this game, I can really advise it, both as a DM and as a player!
 
-# Background
+## Background
 
 About year ago, a new plague spread in the city of Neverwinter: the Wailing Death. The Wailing Death quickly spread to become an epidemic. A quarter of the city now lies dead in the streets, rotting where they fell. Half of the city has become ill, riots roam the streets and a food shortage is starting. If a cure is not found soon, it might spell doom for the city once called "the Jewel of the North"
 
-Lord Nasher Alagondar has commanded his most trusted commander, Lady Aribeth de Tylmarande to find a cure. Desther, the leader of the Priests of Rathma (a priestly order), has been called in to assist the sickly. She has opened the Heroes Acadamy to train new adventures to assist her in finding a cure. And today is their exam day…
+Lord Nasher Alagondar has commanded his most trusted commander, Lady Aribeth de Tylmarande to find a cure. Desther, the leader of the Helmites (a priestly order), has been called in to assist the sickly. She has opened the Heroes Acadamy to train new adventures to assist her in finding a cure. Waterdeep has sent aid, in the form of three creatures that offer the last components for the cure.
+
+## Campaign Synopsis
+
+This campaign in setup as follows:
+  - Chapter 0: An introduction within the Heroes Academy where you introduce the game, its rules and the story. During the PCs "examination", the Heroes Academy is attacked and the Waterdhavian Creatures fled.
+  - Chapters 1-3: The PCs are employed by Seldra to retrieve the Waterdhavian Creatures. These chapters can be run in any order
+  - Chapter 4: The betrayal by Desther and then searching and apprehending him
 
 ## What the PCs do not know
 
-- Lady Aribeth his been replaced with her twin-sister Seldra
-- Selda and Desther are the cause of the Wailing Death. The "Priests of Rathma" has been spreading the disease
-- The "Cure Components" are needed to make a large batch of an improved Wailing Death, that turns people into controllable, metal enhanced zombies
+- Lady Aribeth is actually her twin-sister Seldra.
+- Seldra and Desther are the cause of the Wailing Death. The Helmites has been spreading the disease
+- The "Waterdhavian creatures" are needed to make a large batch of an improved Wailing Death, that turns people into controllable, metal enhanced zombies
+- Aribeth is still alive, but captured within Helm's Hold
 
 ## Changes from the original campaign
 
--
+In the original campaign…
+- …there was only Lady Aribeth. There is no mention of an evil version Seldra
+- …the "cure" wouldn't do anything. There is no mention of an "improved Wailing Death"
+- …the Wailing Death only kills. There is no mention of grafting or transformation into metallic zombies
 
 # Chapter 0: Heroes Academy
 
