@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <!-- MONSTERS -->
+  <monster>
+		<name>Desther</name>
+		<size>M</size>
+		<type>humanoid (human)</type>
+		<alignment>Black</alignment>
+		<ac>16 (chain mail)</ac>
+		<hp>44 (8d8+8)</hp>
+		<speed>30 ft.</speed>
+		<str>14</str>
+		<dex>10</dex>
+		<con>13</con>
+		<int>11</int>
+		<wis>18</wis>
+		<cha>15</cha>
+		<save>Wis +6, Cha +4</save>
+		<skill>Deception +4, History +2, Religion +2</skill>
+		<passive>14</passive>
+		<languages>Common, Infernal</languages>
+		<cr>2</cr>
+		<trait>
+			<name>Spellcasting</name>
+			<text>Desther is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). </text>
+		</trait>
+    <trait>
+      <name>Spirit Guardians</name>
+		<text>An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 2d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage.</text>
+      <attack>Spirit Guardians||2d8</attack>
+    </trait>
+    <action>
+      <name>Sacred Flame</name>
+		  <text>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw (DC14) or take 2d8 radiant damage. The target gains no benefit from cover for this saving throw.</text>
+      <attack>Sacred Flame||2d8</attack>
+    </action>
+    <action>
+      <name>Command</name>
+      <text>You speak a one-word command to two creature you can see within range. The target must succeed on a Wisdom saving throw (DC14) or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.</text>
+    </action>
+    <action>
+      <name>Hold Person</name>
+      <text>Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw (DC14) or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.</text>
+    </action>
+    <action>
+      <name>Mass Healing Word</name>
+      <text>As you call out words of restoration, up to 6 creatures of your choice that you can see within range regain hit points equal to 1d4 + 6.</text>
+      <attack>Mass Healing Word||1d4+6</attack>
+    </action>
+		<action>
+			<name>Multiattack</name>
+			<text>Frulam attacks twice with her halberd.</text>
+		</action>
+		<action>
+			<name>Halberd</name>
+			<text>Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage.</text>
+			<attack>Halberd|5|1d10+2</attack>
+		</action>
+		<spells>sacred flame, command, hold person, mass healing word, spirit guardians</spells>
+	</monster>
+	<monster>
+		<name>Thran Acolyte</name>
+		<size>M</size>
+		<type>humanoid (human)</type>
+		<alignment>lawful evil</alignment>
+		<ac>12</ac>
+		<hp>22 (5d8)</hp>
+		<speed>30 ft.</speed>
+		<str>9</str>
+		<dex>14</dex>
+		<con>11</con>
+		<int>17</int>
+		<wis>12</wis>
+		<cha>11</cha>
+		<save>Int +5, Wis +3</save>
+		<skill>Arcana +5, History +5</skill>
+		<passive>11</passive>
+		<languages>Common, Draconic, Dwarvish, Elvish</languages>
+		<cr>1</cr>
+		<trait>
+			<name>Spellcasting</name>
+			<text>The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks).</text>
+		</trait>
+    <action>
+      <name>Magic Missile</name>
+      <text>You create 4 glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4+1 force damage to its target. The darts all strike simultaneously and you can direct them to hit one creature or several.</text>
+      <attack>Magic Missile||1d4+1</attack>
+    </action>
+    <action>
+      <name>Misty Step</name>
+      <text>BONUS ACTION:</text>
+      <text>Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.</text>
+    </action>
+    <action>
+      <name>Hold Person</name>
+      <text>Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw (DC13) or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.</text>
+    </action>
+		<action>
+			<name>Shocking Grasp</name>
+      <text>Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.</text>
+			<attack>Shocking Grasp|5|1d8</attack>
+		</action>
+		<spells>shocking grasp, magic missile, hold person, misty step</spells>
+	</monster>
+  <!-- Items -->
+  <!-- Spells -->
+
+</compendium>
