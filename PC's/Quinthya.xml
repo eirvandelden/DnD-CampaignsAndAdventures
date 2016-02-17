@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters version="5">
+	<pc>
+		<label>Quinthya</label>
+		<name>Elf (Wood) Monk 2</name>
+		<size>M</size>
+		<ac>13</ac>
+		<hp>14/14 (2d8)</hp>
+		<speed>45 ft.</speed>
+		<str>12</str><dex>17</dex><con>13</con><int>10</int><wis>15</wis><cha>8</cha>
+		<save>Strength +3</save>
+		<save>Dexterity +5</save>
+		<skill>Acrobatics +5</skill>
+		<skill>Athletics +3</skill>
+		<skill>Medicine +4</skill>
+		<skill>Perception +4</skill>
+		<skill>Religion +2</skill>
+		<passive>14</passive>
+		<languages>You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.</languages>
+		<action>
+			<name>Quarterstaff</name>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d6 + 1 bludgeoning damage.</text>
+			<attack>|+3|1d6+1</attack>
+		</action>
+		<action>
+			<name>Dart</name>
+			<text>Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 1d4 + 3 piercing damage.</text>
+			<attack>|+5|1d4+3</attack>
+		</action>
+	</pc>
+</characters>

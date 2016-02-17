@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters version="5">
+	<pc>
+		<label>Crow</label>
+		<name>Halfling Monk 2</name>
+		<size>S</size>
+		<ac>15</ac>
+		<hp>17/17 (2d8)</hp>
+		<speed>35 ft.</speed>
+		<str>8</str><dex>17</dex><con>14</con><int>10</int><wis>14</wis><cha>12</cha>
+		<save>Strength +1</save>
+		<save>Dexterity +5</save>
+		<skill>Acrobatics +5</skill>
+		<skill>Athletics +1</skill>
+		<skill>Insight +4</skill>
+		<skill>Medicine +4</skill>
+		<passive>12</passive>
+		<action>
+			<name>Unarmed strike</name>
+			<text>Attack: +5 to hit. Hit: 1d4 + 3 bludgeoning damage.</text>
+			<attack>|+5|1d4+3</attack>
+		</action>
+		<action>
+			<name>Short Sword</name>
+			<text>Attack: +5 to hit. Hit: 1d6 + 3  damage.</text>
+			<attack>|+5|1d6+3</attack>
+		</action>
+		<action>
+			<name>Dart</name>
+			<text>Attack: +5 to hit. Hit: 1d4 + 3 piercing damage.</text>
+			<attack>|+5|1d4+3</attack>
+		</action>
+	</pc>
+</characters>

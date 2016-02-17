@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters version="5">
+	<pc>
+		<label>Fairuza Shenzaan</label>
+		<name>Wood Elf Ranger 2</name>
+		<size>M</size>
+		<ac>14 (Combat Leather)</ac>
+		<hp>21/21 (2d6)</hp>
+		<speed>35 ft.</speed>
+		<str>8</str><dex>17</dex><con>14</con><int>15</int><wis>15</wis><cha>16</cha>
+		<save>Strength -1</save>
+		<skill>Acrobatics +7</skill>
+		<skill>Stealth +7</skill>
+		<skill>Survival +6</skill>
+		<passive>12</passive>
+		<action>
+			<name>Shard Rifle</name>
+			<text>Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 1d8 + 3 piercing damage.</text>
+			<attack>|-1|1d8+3</attack>
+		</action>
+		<action>
+			<name>Shard Pistol</name>
+			<text>Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 1d6 + 3 piercing damage.</text>
+			<attack>|-1|1d6+3</attack>
+		</action>
+	</pc>
+</characters>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters version="5">
+	<pc>
+		<label>Moras</label>
+		<name>Deep Gnome Rogue 2</name>
+		<size>S</size>
+		<ac>15 (Studded leather)</ac>
+		<hp>14/14 (2d8)</hp>
+		<speed>25 ft.</speed>
+		<str>8</str><dex>16</dex><con>12</con><int>16</int><wis>13</wis><cha>10</cha>
+		<save>Strength -1</save>
+		<save>Constitution +1</save>
+		<save>Wisdom +3</save>
+		<skill>Acrobatics +5</skill>
+		<skill>Arcana +5</skill>
+		<skill>Deception +4</skill>
+		<skill>Investigation +5</skill>
+		<skill>Sleight of Hand +5</skill>
+		<skill>Stealth +7</skill>
+		<passive>11</passive>
+		<action>
+			<name>Pickaxe</name>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d8 + 3 piercing damage.</text>
+			<attack>|+3|1d8+3</attack>
+		</action>
+		<action>
+			<name>Crossbow, hand</name>
+			<text>Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 1d6 + 3 piercing damage.</text>
+			<attack>|-1|1d6+3</attack>
+		</action>
+		<action>
+			<name>Sneak attack</name>
+			<text>Attack: +0 to hit. Hit: 1d6  damage.</text>
+			<attack>|+0|1d6</attack>
+		</action>
+	</pc>
+</characters>
