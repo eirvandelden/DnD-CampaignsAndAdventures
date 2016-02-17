@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="YES">
+  <!-- MONSTERS -->
+  <monster>
+    <name>Hug Hug</name>
+    <size>S</size>
+    <ac>13</ac>
+    <hp>3</hp>
+    <str>8</str>
+    <con>10</con>
+    <dex>13</dex>
+    <int>10</int>
+    <wis>9</wis>
+    <cha>8</cha>
+    <senses>darkvision 60 ft.</senses>
+    <speed>6 sqr/30 ft.</speed>
+    <languages>Common, Goblin</languages>
+    <cr>1/8</cr>
+    <trait>
+      <name>Bushwhacker</name>
+      <text>During the first round of combat, Hug Hug has advantage on attack rolls against any target that has a lower initiative.</text>
+    </trait>
+    <trait>
+      <name>Stealthy</name>
+      <text>Hug Hug gains a +5 bonus to all checks to avoid detection.</text>
+    </trait>
+    <action>
+      <name>Melee Attack—Club</name>
+      <text>+4 to hit (reach 1; one creature). Hit: 4 (1d4 + 2) bludgeoning damage.</text>
+      <attack>|4|1d4+2</attack>
+    </action>
+    <action>
+      <name>Ranged Attack—Sling</name>
+      <text> +4 to hit (range 6/12; one creature). Hit: 4 (1d4 + 2) piercing damage.</text>
+      <attack>|4|1d4+2</attack>
+    </action>
+    <description>
+The lone surviving goblin cowers under the mine cart until a character lifts it, at which point he scampers out and attempts to run away. The goblin, Hug Hug, isn’t looking for a fight. If the characters are friendly toward him, he gladly fights by their side (avoiding melee when- ever possible). For a goblin, he’s uncharacteristically generous and loyal. He speaks broken Common and Dwarvish, and he knows enough of the latter to translate the runes found throughout the mine.
+Hug Hug has enough food to survive another day or two on his own, but he’s not shy about begging from well-equipped adventurers. He gets his name from a natural tendency to hug others when scared.
+Roleplaying Notes: Hug Hug should be played as a likable character. He views his liberators as his best chance for survival but knows nothing about the Mines of Madness and makes a poor guide; he and his kin stumbled on the entrance and decided to investigate on a whim. The survivors of the tunnel collapse (see area 2) didn’t get far before they were set upon by the cocka- trices; consequently, Hug Hug hasn’t explored much of the mine.
+If the characters spare Hug Hug’s life, he gives them his only treasure: 1 copper piece. Even if the adventurers might find him a useful companion, they could choose to sacrifice him in area 27 instead of another party member. If you roleplay Hug Hug well, it should be a heartbreaking decision for good-aligned characters to make.
+    </description>
+  </monster>
+  <monster>
+    <name>Giant Lizark Skeleton</name>
+    <size>M</size>
+    <ac>11</ac>
+    <hp>9</hp>
+    <speed>6, climb 4</speed>
+    <senses>darkvision 12</senses>
+    <str>13</str>
+    <dex>12</dex>
+    <con>10</con>
+    <int>2</int>
+    <wis>12</wis>
+    <cha>3</cha>
+    <cr>1/8</cr>
+    <languages>-</languages>
+    <trait>
+      <name>Immunities:</name>
+      <text>The skeleton cannot be charmed, frightened, or put to sleep. It is immune to disease and poison.</text>
+    </trait>
+    <trait>
+      <name>Resistance:</name>
+      <text>The skeleton is resistant to piercing damage.</text>
+    </trait>
+    <trait>
+      <name>Vulnerability:</name>
+      <text>The skeleton is vulnerable to bludgeoning damage.</text>
+    </trait>
+    <action>
+      <name>Melee Attack-Bite:</name>
+      <text>+5 to hit (reach 1; one creature). Hit: 7 (1d8 + 3) piercing damage.</text>
+      <attack>|5|1d8+3</attack>
+    </action>
+  </monster>
+  <monster>
+    <name>Dwarf Skeleton</name>
+    <size>M</size>
+    <ac>13</ac>
+    <hp>9</hp>
+    <speed>5</speed>
+    <senses>darkvision 12</senses>
+    <str>11</str>
+    <dex>10</dex>
+    <con>10</con>
+    <int>6</int>
+    <wis>8</wis>
+    <cha>3</cha>
+    <languages>Common</languages>
+    <action>
+      <name>Melee Attack-War Pick:</name>
+      <text>+5 to hit (reach 1; one creature). Hit: 4 (1d8) piercing damage.</text>
+      <attack>|4|1d8</attack>
+    </action>
+    <action>
+      <name>Ranged Attack-Throwing Axe:</name>
+      <text>+5 to hit (range 4/12; one creature).Hit: 3 (1d6) slashing damage.</text>
+      <attack>|3|1d6</attack>
+    </action>
+    <trait>
+      <name>Immunities:</name>
+      <text>The skeleton cannot be charmed, frightened, or put to sleep. It is immune to disease and poison.</text>
+    </trait>
+    <trait>
+      <name>Resistance:</name>
+      <text>The skeleton is resistant to piercing damage.</text>
+    </trait>
+    <trait>
+      <name>Vulnerability:</name>
+      <text>The skeleton is vulnerable to bludgeoning damage.</text>
+    </trait>
+  </monster>
+
+  <monster>
+    <name>Oink Zombie</name>
+    <size>M</size>
+    <ac>8</ac>
+    <hp>9</hp>
+    <speed>4</speed>
+    <senses>Dark vision 12</senses>
+    <str>15</str><dex>6</dex><con>10</con>
+    <int>6</int><wis>7</wis><cha>9</cha>
+    <languages>understands Common</languages>
+    <cr>1/4</cr>
+    <trait>
+      <name>Destroyed by Sunlight:</name>
+      <text> The zombie is destroyed instantly by sunlight.</text>
+    </trait>
+    <trait>
+      <name>Immunities:</name>
+      <text>The zombie cannot be charmed, frightened, or put to sleep. It is immune to disease and poison.</text>
+    </trait>
+    <trait>
+      <name>Zombie Fortitude:</name>
+      <text>
+        When the zombie takes damage that would reduce it to 0 hit points, it must make a DC 10 Constitution saving throw. It fails the saving throw automatically if the damage is the result of a critical hit. Successful Save: The zombie is instead reduced to 1 hit point.
+      </text>
+    </trait>
+    <action>
+      <name>Melee Attack-Long Sword:</name>
+      <text>+5 to hit (reach 5 ft.; one creature). Hit: 6 (1d8 + 2) slashing damage.</text>
+      <attack>|5|1d8+2</attack>
+    </action>
+  </monster>
+
+  <monster>
+    <name>Death Stalker</name>
+    <size>M</size>
+    <ac>10</ac>
+    <hp>4</hp>
+    <speed>6</speed>
+    <senses>darkvision 12</senses>
+    <str>9</str><dex>11</dex><con>10</con>
+    <int>4</int><wis>10</wis><cha>10</cha>
+    <languages>understands Common</languages>
+    <cr>1/8</cr>
+    <trait>
+      <name>Immunities:</name>
+      <text> The deathstalker is immune to necrotic damage.</text>
+    </trait>
+    <trait>
+      <name>Fear of Felines:</name>
+      <text>On its turn, the deathstalker must move its speed away from any cat that it can see. If it is within 10 feet of a cat and cannot move away, it explodes as a reaction (see Actions below).</text>
+    </trait>
+    <action>
+      <name>Explode:</name>
+      <text> The deathstalker explodes in a 10-foot-radius sphere, destroying itself. All other creatures in the area of effect must make a DC 11 Dexterity saving throw. Failed Save: 7 (2d6) necrotic damage. Successful Save: Half damage.</text>
+      <attack>||2d6</attack>
+    </action>
+  </monster>
+
+  <!-- Items -->
+  <!-- Spells -->
+
+</compendium>

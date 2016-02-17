@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<campaign version="5">
+  <note>
+    <title>0. Introduction</title>
+    <text>
+        Mines of Madness is a rollicking D and D adventure designed for use with the D and D Next playtest packet, which you can download for free at dndnext.com. The adventure is intended for four 3rd-level characters, created using the rules in the playtest packet.
+    </text>
+    <text>
+    The Mines of Madness is a fictional adventure loca- tion (aren’t they all?) first introduced in the web comic PvP, as a loving tribute to the classic D and D “dungeon crawls” of old. This adventure brings the adventure loca- tion to life, allowing D and D fans at PAX East 2013 to experience the Mines of Madness for themselves.</text>
+    <text>
+    Let us begin by saying: This is not a fair test of the players' abilities. The dungeon is tragically stacked in the DM’s favor and built to frustrate, maim, humble, and ulti- mately kill adventurers. But if the players band together and use their brains, with a little luck their characters might survive to tell the tale of how they descended into the Mines of Madness in search of the Forever Stone and prevailed.
+    What’s the Forever Stone? We’re glad you asked...
+    </text>
+  </note>
+  <note>
+    <title>1. What the players will never know</title>
+    <text>
+      The masters of the dwarven Glitterdark Mining Consor- tium thought they’d struck it rich with the Corkscrew Mines, so named because of their distinctive, downward spiraling tunnels. Deep within, the dwarves unearthed veins of a never-before-seen red crystal they took to calling krimsonite. Unfortunately, the substance was dif- ficult to extract and turned brittle once separated from the indigenous rock upon which it grew. The consortium tried to market the crystal and failed horribly.
+    </text>
+    <text>
+      A mine foreman named Pax Jaggershield had invested his life savings in the mines. Stubborn yet per- suasive, he refused to sell his shares and (foolishly, some say) convinced his fellow miners to help him buy the rest. The consortium gladly took the dwarves’ money, leaving Jaggershield’s crew with a worthless haul of krimsonite and their misplaced pride.
+    </text>
+    <text>
+      By delving ever deeper, Jaggershield hoped to strike electrum (a few flecks of the precious metal had been found here and there), but instead broke into a tunnel complex inhabited by a purple worm. The dwarves retreated, and that’s when the downward excavation stopped.
+    </text>
+    <text>
+      At some point (scholars aren’t sure when), Jagger- shield and his retinue were approached by an elderly wizard. He told them that krimsonite dust was valuable as a spell component. The dwarves, encouraged by the news, worked feverishly to provide the wizard with all the krimsonite he could afford. In fact, the ore had no magical value at all; the wizard had lied to the dwarves and had no real interest in the red crystal. His interest was in the mine itself.
+    </text>
+    <text>
+      The elderly wizard, Abracadamus, was the last sur- viving member of a secret society of do-gooders sworn to protect the Forever Stone and other good-aligned arti- facts from the forces of evil. He had used the artifact to prolong his own life (for that is its greatest power), but he was tired of being hunted. He urged the dwarves to make several expansions to the mines and helped them rig a series of deadly traps to discourage intrusion. Abra- cadamus then sealed himself and the Forever Stone in the mines’ depths, never to be seen again.
+    </text>
+    <text>
+      Pax Jaggershield and his dwarves, rich on the money given to them by the wizard, chose to stay and guard the mines. They were convinced that Abracadamus and his treasures were worth protecting. After a few months, however, the dwarves succumbed to a strange madness. A handful of them longed to retrieve and sell whatever the wizard was hiding. Greed and paranoia led to vio- lence and betrayal, until only Jaggershield himself was left standing. Still, he refused to leave the mine, and there he died.
+    </text>
+    <text>
+      The evil forces hounding Abracadamus eventually tracked the wizard to the mines, but they didn’t get far before the various traps and wards disposed of them. Since then, bands of adventurers have entered the Mines of Madness in search of the fabled Forever Stone, only to meet similar fates. No one remembers that the stone is an artifact of good, only that it grants eternal life—and for many, that’s a treasure worth dying for.
+    </text>
+  </note>
+  <note>
+    <title>2. What the Players need to know</title>
+    <text>
+      Read the following to begin the adventure:
+    </text>
+    <text>
+      You have come to the Mines of Madness in search of the Forever Stone, a powerful artifact rumored to have many great powers, first among them the power to grant eternal life. According to half-forgotten lore, the stone was hidden from the world long ago by evil wizards and greedy dwarves who coveted its power. They are said to have perished in an orgy of magic and bloodshed after turning on one another. You don’t expect all the rumors to be true, but one thing is cer- tain: Over the years, many adventurers have tried to claim the Forever Stone, but none have succeeded.
+    </text>
+    <text>
+      To survive the Mines of Madness would be a feather in the cap of any adventurer, but to retrieve the Forever Stone would catapult you into the annals of awesomeness. And so here you are, on the brink of greatness, ready to descend into the depths in search of glory, infamy, and immortality…
+    </text>
+    <text></text>
+    <text>
+      The adventure assumes that the characters know one another and have been together for some time. It also assumes that the party has discovered the location of the Mines of Madness and made its way there. The adven- ture begins with the characters standing at the entrance, preparing to make their descent into history.
+    </text>
+    <text>
+      Speaking of history, characters can attempt to recall certain supposed facts about the Mines of Madness by making a DC 20 Intelligence check. A successful check yields one random bit of information; have the succeeding player roll a d4, and then consult the options below.
+    </text>
+    <text>1 The mines are rumored to contain veins of electrum.</text>
+    <text>2 The mines are known to contain veins of a worthless crystalline substance called krimsonite (with a “k”).</text>
+    <text>3 The dwarves who owned the mines went mad, hence the name: Mines of Madness.</text>
+    <text>4 A long-dead wizard named Abracadamus is thought to haunt the mines as a vampire or lich.</text>
+  </note>
+  <note>
+    <title>3. An adventurer's worst nightmare</title>
+    <text>The dungeon is suffused with stray magical energies that unsettle the unconscious mind, twisting dreams into nightmares and leaving one weak and rattled upon waking. In game terms, any adventurer who takes a long rest in the Mines of Madness does not regain spent Hit Dice.</text>
+  </note>
+  <note>
+    <title>4. Common Features</title>
+    <text>
+    As the player characters explore the mines, they’ll dis- cover several recurring features throughout.
+Scale: The maps use a scale of 10 feet per square. When determining the party’s marching order, note that tunnels are wide enough for characters to move two abreast or single file.
+Lighting: All areas within the mines are unlit unless noted otherwise. Characters must rely on darkvision or their own light sources to see.
+Ceilings and Walls: Unless noted otherwise, rooms have flat, 10-foot-high ceilings and are chiseled from solid stone, and the walls have few handholds or foot- holds; they can be climbed with a DC 20 Strength or Dexterity check. Natural caverns vary in height and have frequent hand- and footholds, but the walls are slick with moisture; climbing the walls in these locations requires
+a DC 15 Strength or Dexterity check, and failure by 5 or more results in a fall (1d6 bludgeoning damage per 10 feet fallen).
+Mine Shafts: Dwarves like to name mine shafts after dwarven kings. The named mine shafts in the Mines
+of Madness vary in depth, but all are lined with rotting support beams and crossbeams that offer plenty of hand- holds. Climbing up or down a shaft requires a DC 12 Strength or Dexterity check, with a failure by 5 or more indicating a fall (1d6 bludgeoning damage per 10 feet fallen).
+Tunnels: All tunnels are 10 feet high and hewn from dense earth and solid rock. At various weak points, rot- ting wooden buttresses and crossbeams support the tunnel walls and ceiling.
+Corkscrew Tunnels: Some tunnels coil upward or down- ward, increasing or decreasing their depth by 30 feet. The floors of these corkscrew tunnels are usually angled no more than 20 degrees.
+Tunnel Collapse: A typical buttress has AC 0 and 10
+hit points. Destroying a buttress has a 1-in-6 chance of causing a ceiling collapse in the two 10-foot squares clos- est to it. Any creature in a collapsing section of tunnel must make a DC 10 Dexterity saving throw. On a suc- cessful save, the target moves out of the collapsing area to the nearest safe square. On a failed save, the target takes 7 (2d6) bludgeoning damage, falls prone, and is buried under 1d6 feet of rubble. While buried, the target is restrained and cannot stand, and the only action it
+can take on its turn is to make a DC 10 Strength check to escape, taking a penalty to the check equal to the number of feet of rubble covering it. An unburied creature adjacent to the target can attempt to pull it free as an action by making a similar Strength check.
+    </text>
+  </note>
+
+  <!-- Mines of Madness: Upper Floor -->
+  <encounter>
+    <name>Upper Floor 1. "Keep Out!"</name>
+    <text>Read aloud:</text>
+    <text>A ramshackle wooden outhouse stands about 30 feet from the entrance to the mine. Carved into the door are the words “KEEP OUT!” in Common.</text>
+    <text></text>
+    <text>Some characters might be tempted to explore the out- house. If a character opens the door or peeks through a knothole in the wooden walls, read:</text>
+    <text>Inside the outhouse is a wooden bench with a hole cut into it. Flickering orange light shows through the hole, emanating from somewhere deep below.</text>
+    <text></text>
+    <text>Buried in the ground beneath the outhouse is an empty wooden barrel to catch waste. Some anonymous miscre- ant threw an everburning torch into the barrel. The torch (which produces no heat) is the source of the light.
+The outhouse is large enough to accommodate one Medium character or two Small characters at a time.</text>
+    <text>
+Creature: If one or more characters ignore the sign and enter the outhouse, the ground begins to tremble and bulge as the purple worm from area 32 erupts from below and swallows the outhouse. The worm is 50 feet long, but its lower half remains underground.
+Characters in the 10-foot squares adjacent to the out- house must succeed on a DC 10 Dexterity saving throw or fall prone. Anyone in the 10-foot square occupied by the outhouse must succeed on a DC 15 Dexterity saving throw or be targeted by the worm’s bite attack. (In this singular instance, the worm can bite multiple creatures with a single attack.) Characters inside the outhouse take a –5 penalty to this saving throw, and the worm has advantage on its attack roll to hit them.
+Roll initiative as normal, and track any damage the purple worm sustains; on its first turn after gaining surprise, the purple worm retreats the way it came, pro- voking opportunity attacks from characters adjacent to it as it backs into the earth. In addition to the outhouse, the worm also swallows the waste barrel and the everburning torch inside it.</text>
+    <text>Worm Chute: The purple worm leaves behind a sinkhole of pulverized rock covering a lazily spiraling, corkscrew-like chute 10 feet wide and 120 feet deep. The chute is plugged with 5 feet of pulverized rock, but the first character to enter or forcibly prod the sinkhole causes the fine rubble to give way, exposing the chute for all to see. Characters who dare to slide down the chute arrive at the point marked X in area 32 on the lower level, landing atop a heap of powdered stone and taking no damage. It’s a DC 15 Strength or Dexterity check to climb up or down the chute (DC 5 with ropes or climb- ing gear), and failure by 5 or more results in a fall (but no damage).</text>
+    <text>Troubleshooting: This encounter sets the tone of
+the adventure. If the purple worm swallows one or more characters, resolve their fates quickly. In all likelihood, they are dead meat. (That’s what they get for not heeding the warning sign on the outhouse door!) Players who lose characters to the purple worm can remain in the game by choosing or rolling up new characters or renaming the ones they already have. Let them contrive an unlikely story to explain the sudden arrival of these new adven- turers, then move on to the next encounter. (It’s not about realism; it’s about having fun!)</text>
+    <text>
+It's fine if the characters follow the purple worm down to the lower level. Although they might seem to be circumventing the dungeon, characters using this back- door route are confined to areas 29, 31, 32, and 33, with little hope of obtaining the Forever Stone.</text>
+    <combatant monster="Purple Worm" label="Purple Worm" />
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 2. Entrance</name>
+    <text>Read aloud:</text>
+    <text>Rubble and flinders of rotten wood are piled around the mouth of a 10-foot-wide, 10-foot-high tunnel carved into a rocky hillside. The floor of the tunnel is covered in loose dust, and the wooden buttresses and crossbeams that support the tunnel ceiling have seen better days.</text>
+    <text>
+    The entrance has collapsed several times, only to be cleared now and then by intrepid explorers eager to unearth the secrets and treasures beyond. The last group to enter the Mines of Madness was a gang of eight gob- lins. They fell prey to a trap (see below)—and so might the adventurers if they’re not careful.
+    </text>
+    <text>Rabble in the Rubble: Four dead goblins are buried in the rubble flanking the entrance (two per side). The mine entrance collapsed as the goblins made their way inside, and the survivors (see area 3) stashed the bodies here after clearing the tunnel and looting the dead. (The remaining goblins didn’t want others who wandered by to see the corpses of their kin lying around.) Anyone who takes the time to search the rubble finds the dead gob- lins (no check required). The corpses wear crushed bits of armor and have broken spears buried with them, but they carry nothing of value. A successful DC 10 Wisdom check reveals that they died from bludgeoning damage.</text>
+    <text>Trap: Ten feet inside the tunnel, carved into the floor between two ceiling supports and hidden under a thin layer of dust, is a tiny rune composed of three Dwarvish letters. If the characters take the time to sweep aside
+the dust or cast a detect magic spell, they automatically detect the rune (show the players HANDOUT 2 at this time). Otherwise, they have no chance of spotting it. The rune consists of the letters P, A, and X. It radiates faint abjuration magic when scrutinized with a detect magic spell, and a DC 15 Intelligence check confirms that the rune can be disabled by uttering the word “Pax” or its Common translation, “Great.” Speaking either word aloud within 10 feet of the rune causes it to disappear for 24 hours, temporarily disabling the trap.
+If a character moves from the first 10-foot square of the tunnel to the second—or vice versa—without saying “Pax” or “Great” aloud, the rune flashes brightly and triggers a tunnel collapse that fills both 10-foot squares. See “Common Features” (page 3) for rules on tunnel col- lapses. Once the tunnel collapses, it’s completely blocked off; the rune disappears and the trap is disabled for 24 hours. Clearing the tunnel after a collapse takes 5 hours of work per 10-foot square; each additional character reduces this time by 1 hour.</text>
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 3. Pecking Order</name>
+    <text>When the characters come within 30 feet of this room (from any direction), they hear clucking and banging sounds, read:</text>
+    <text>This 10-foot-high, rough-hewn chamber contains shovels, picks, stacks of wooden planks, buckets of nails, and piles of wooden beams amid three half-built wooden mine carts and three eerily lifelike statues of goblins brandishing spears.
+An intact cart rests upside-down in the middle of the cave, its wooden wheels sticking up in the air. Four oversized chickens peck at the sides of the overturned cart, determined to get at whatever’s underneath.</text>
+    <text></text>
+    <text>The four goblins that survived the tunnel collapse in area 2 eventually ran afoul of some cockatrices (heh heh) and never made it out of this room. Three of the goblins were turned to stone, and the fourth is hiding beneath the overturned mine cart.</text>
+    <text>Creatures: The four cockatrices are fixated on the overturned mine cart, allowing the characters the pos- sibility of gaining surprise. If a character approaches within 10 feet of the beasts without succeeding on a Dexterity check to be stealthy, this chance for surprise is lost. The cockatrices are ill-tempered beasts and fight until slain.
+The lone surviving goblin cowers under the mine cart until a character lifts it, at which point he scampers out and attempts to run away. The goblin, Hug Hug, isn’t looking for a fight. If the characters are friendly toward him, he gladly fights by their side (avoiding melee when- ever possible). For a goblin, he’s uncharacteristically generous and loyal. He speaks broken Common and Dwarvish, and he knows enough of the latter to translate the runes found throughout the mine.
+Hug Hug has enough food to survive another day or two on his own, but he’s not shy about begging from well-equipped adventurers. He gets his name from a natural tendency to hug others when scared.</text>
+    <text>Roleplaying Notes: Hug Hug should be played as a likable character. He views his liberators as his best chance for survival but knows nothing about the Mines of Madness and makes a poor guide; he and his kin stumbled on the entrance and decided to investigate on a whim. The survivors of the tunnel collapse (see area 2) didn’t get far before they were set upon by the cocka- trices; consequently, Hug Hug hasn’t explored much of the mine.
+If the characters spare Hug Hug’s life, he gives them his only treasure: 1 copper piece. Even if the adventurers might find him a useful companion, they could choose to sacrifice him in area 27 instead of another party member. If you roleplay Hug Hug well, it should be a heartbreaking decision for good-aligned characters to make.</text>
+    <text>Troubleshooting: If one or more characters are petrified by the cockatrices, you can add more live goblins to the encounter by giving Hug Hug a few friends and allowing players to run them as replacement charac- ters. These goblins have the same statistics and gear
+as Hug Hug and remain under the mine cart until the cockatrices are defeated. At the bare minimum, you’ll need to provide the following statistical information to each goblin player: AC, hit points, attack bonuses and damage, and ability score modifiers. The goblin adven- turers are considerably weaker than the rest of the party, but that can make for a fun roleplaying challenge. The goblin players can name their new characters, choose alignments, and flesh out details and personalities as they see fit. You can assume that each goblin has gear comparable to an adventurer’s kit.</text>
+    <combatant monster="Cockatrice" label="Cockatrice 1" />
+    <combatant monster="Cockatrice" label="Cockatrice 2" />
+    <combatant monster="Cockatrice" label="Cockatrice 3" />
+    <combatant monster="Cockatrice" label="Cockatrice 4" />
+    <combatant monster="Hug Hug" label="Hug Hug" />
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 4. Mine shaft Braumordo</name>
+    <text>Carved above the entrance to this mine shaft is the word “BRAUMORDO” in Dwarvish script. (Show the players HANDOUT 3 at this time.) Dwarf characters know that dwarves like to name mine shafts after dwarven kings. Read aloud:</text>
+    <text>You stand at the top of a 10-foot-wide shaft of uncer- tain depth. Dangling above it from the ceiling is a rickety lift—a wooden framework with no walls and a floor made of dusty planks—fastened to a system of frayed ropes, iron pulleys, and stone counterweights.</text>
+    <text></text>
+    <text>The lift is nothing more than an 8-foot-by-8-foot-by-8- foot box with no walls and a floor consisting of creaky wooden planks, the whole contraption held aloft by frayed ropes. A character inside the lift can raise or lower it at a rate of 10 feet per round by pulling on the ropes.
+The ropes suspending the lift can support up to three Medium characters and their gear. (Two Small char- acters count as one Medium character in this regard.)
+If any more characters move onto it, the contraption breaks loose and falls to the bottom of the shaft. Any character inside the lift when it plummets must make a DC 15 Dexterity check to find purchase on a nearby wall. If the save fails, the character falls and takes 21 (6d6) bludgeoning damage.
+The mine shaft is 60 feet deep and leads down to area 30. See “Common Features” (page 3) for more informa- tion on mine shafts.</text>
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 5. Sticky Secret Door</name>
+    <text>This portal, at a glance, looks very much like the rough- hewn walls surrounding it—but it’s no ordinary secret door.
+Any creature that approaches within 5 feet of the secret door can make a DC 15 Intelligence or Wisdom check to detect its presence. It has no obvious way of being opened, however. If it is subjected to a detect magic spell, the door radiates powerful abjuration magic.</text>
+    <text>Creature: The “secret door” is actually a mimic held in stasis. Touching it dispels the stasis, whereupon the mimic produces a sticky pseudopod and attacks. This particular mimic cannot speak, and it fights until slain or until the characters flee. If the party flees rather than fights, the mimic moves elsewhere, assumes a new inan- imate form (for example, a wooden chest), and hides in plain sight.</text>
+    <combatant monster="Mimic" />
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 6. Cockatrice nests</name>
+    <text>Read:</text>
+    <text>The floor of this 20-foot-high cave rises in the middle, creating a 10-foot-high rocky shelf. Broken picks and shovels are haphazardly scattered about.</text>
+    <text></text>
+    <text>Characters who climb to the top of the rocky shelf find two nests made from straw and other detritus. One of the nests contains four speckled cockatrice eggs, and the other holds three. Characters can make a DC 13 Intelli- gence check to identify the eggs.</text>
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 7. super Fun happy slide</name>
+    <text>Read:</text>
+    <text>This dusty, 10-foot-high cave contains several splin- tered cots and four intact (but empty) chicken coops. Carved above a circular hole in the eastern wall are Dwarvish runes.</text>
+    <text></text>
+    <text>The hole in the eastern wall is 3 feet in diameter and
+2 feet above the floor; it forms the mouth of a polished stone chute that descends at a 45-degree angle into dark- ness. If the characters inspect the runes above the hole in the wall, show the players HANDOUT 4. The runes spell the word “SLIDE.”</text>
+    <text>Slide: Characters who use the chute are, after a brief yet fun ride, dumped into a pit of lime dust (see area 8); any character who fails a DC 10 Dexterity saving throw takes 1d6 bludgeoning damage and falls prone. Those attempting a slow, careful descent must make a DC 20 Dexterity check to avoid slipping, with results on a fail- ure as described above. Any character who lands in the pit stirs up a cloud of dust and must succeed on a DC 10 Constitution saving throw or be blinded for 1d6 rounds.</text>
+    <text>Chicken Coops: The dwarves who lived in the mines liked to catch wild cockatrices and kept them in these wooden coops. The foreman, Pax Jaggershield, had a particular fondness for cockatrice eggs. Days before his death, stricken with madness, he released his cockatrice captives. The ugly beasts have since made nests in area 6 and migrated to area 3.</text>
+  </encounter>
+  <encounter>
+    <name>Upper Floor 8. A dash of Lime</name>
+    <text>This cavernous pit has a 30-foot-high ceiling and is 10 feet deeper than the floor in area 9. The pit’s floor is buried under 2 feet of powdered lime, and hidden below this soft powder are the bones of giant lizards that used to haul rock out of the mines for the dwarves.</text>
+    <text>Creatures: If a character moves more than 10 feet across the floor of the pit, he or she disturbs the bones underneath the lime dust, causing them to animate as five skeletal giant lizards imbued with evil disposi- tions. The skeletal lizards rise up out of the lime dust and try to gang up on single adversaries. If turned, they crawl up into area 9. The skeletal lizards are in no way troubled by the lime dust in the pit.
+Any battle here alerts the dwarf skeletons in area 9, which stand at the edge of the pit and hurl axes at the adventurers.</text>
+    <text>Pit of Lime Dust: The mouth of the slide (see area 7) is 5 feet above the pit floor. A character who slides or alls into the pit must make a DC 10 Dexterity saving throw to avoid taking 1d6 bludgeoning damage and fall- ing prone. Any character who lands in the pit stirs up a cloud of lime dust and must succeed on a DC 10 Consti- tution saving throw or be blinded for 1d6 rounds.</text>
+    <text>Using water or alcohol to wash the eyes of a blinded character is a bad idea, because doing this turns the lime dust into a corrosive liquid, dealing 1d6 acid damage to the afflicted character and causing permanent blindness that can be cured only with a lesser restoration, greater res- toration, or heal spell.</text>
+    <text>Simply walking through the lime dust does not stir enough dust to cause blindness, but a character who is knocked prone in the pit must succeed on a DC 10 Constitution saving throw or be blinded for 1d6 rounds.</text>
+
+    <combatant monster="Giant Lizard Skeleton" label="Giant Lizard Skeleton 1" />
+    <combatant monster="Giant Lizard Skeleton" label="Giant Lizard Skeleton 2" />
+    <combatant monster="Giant Lizard Skeleton" label="Giant Lizard Skeleton 3" />
+    <combatant monster="Giant Lizard Skeleton" label="Giant Lizard Skeleton 4" />
+    <combatant monster="Giant Lizard Skeleton" label="Giant Lizard Skeleton 5" />
+  </encounter>
+  <encounter>
+    <name>Upper Floor 9. Wrath of Pax</name>
+    <text>This is where Pax Jaggershield and most of his fellow miners met their end. Read Aloud:</text>
+    <text>This enormous, square room has smooth, brick-lined walls and a 20-foot-high ceiling festooned with thick cobwebs. The floor is littered with tools and mining apparatus. More than a dozen animated dwarf skel- etons wander about, pushing wooden mine carts, rolling barrels, and performing other chores under the supervision of a skeletal dwarf standing on a barrel and carrying a diamond-tipped pick.
+Equally spaced along the southern wall are three identical oaken doors with iron handles and hinges.</text>
+    <text></text>
+    <text>The magical wards that Abracadamus placed throughout the mines, including scrying sensors, had an unintended side effect: They released arcane energies that drove
+the dwarves past the brink of madness so that they ulti- mately turned on one another. Pax Jaggershield, the foreman, was convinced that the others were plotting to seize the mine (and the Forever Stone) for themselves, so he took care of business. After the murder and mayhem subsided, guilt and paranoia kept him from leaving the mines. He started eating rocks (thinking they were cock- atrice eggs) and died a painful and ignoble death.</text>
+    <text>Creatures: There are fifteen dwarf skeletons (including Pax) in this room, and they don’t take kindly to intrusion. If the characters are seen entering the room, a few skeletons run up to engage the enemy in melee combat while the rest hang back and throw axes.</text>
+    <text>Pax Jaggershield has maximum hit points (16 hp)
+and remains out of melee range, standing atop a barrel of dwarven blasting powder (see “Pax’s Barrel”). He clutches a diamond-tipped pick in one skeletal hand (see “Treasure”) and a withered scrap of parchment in the other, shouting “Finders keepers! Finders keepers!” over and over in a mad rage. The parchment is the deed to the Corkscrew Mines and is basically worthless (although useful in dealing with the iron golem in area 28).</text>
+    <text>Pax’s Barrel: Pax’s barrel of blasting powder has
+AC 5 and 5 hp. If it takes fire damage in excess of its
+hit points, the barrel explodes as though a fireball spell detonated in its space. Creatures in the 20-foot-radius cloud must make a DC 10 Dexterity saving throw. Failed Save: 21 (6d6) fire damage. Successful Save: Half damage. Characters who avoid damaging the barrel can take it with them; it weighs 100 pounds. If Jaggershield’s pre- cious deed is caught in the explosion’s area of effect, the fire destroys it.</text>
+    <text>Doors: All three doors open into the room, and none of them are locked.
+Easternmost Door: This door opens to reveal a long, brick-walled tunnel (see area 10 for details). A detect magic spell reveals a strong aura of transmutation magic on the door and in the hallway beyond.
+Middle Door: An iron spike is pounded into the floor in front of this door, and a detect magic spell reveals a strong aura of conjuration magic beyond the portal. Open-
+ing the door requires removing the spike first (which requires an action and a DC 15 Strength check) . Beyond is an empty alcove. Any living creature that enters the
+alcove is instantly teleported to area 22 on the lower level (no saving throw).
+Westernmost Door: The door opens to reveal a dusty tunnel containing two mine shafts (see area 12 for details). A detect magic spell reveals no magical auras on the door or the area beyond.</text>
+    <text>Treasure: Pax carries a diamond-tipped war pick worth 7,500 gp. (It deals damage as a normal war pick.) The pick can be used to appease the golem in area 28.</text>
+
+    <combatant monster="Dwarf Skeleton" label="Pax Jaggershield" hp="16" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 2" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 3" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 4" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 5" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 6" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 7" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 8" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 9" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 10" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 11" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 12" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 13" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 14" />
+    <combatant monster="Dwarf Skeleton" label="Dwarf Skeleton 15" />
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 12. Mine Shafts Dezzyryn and Dolmark</name>
+    <text>See PDF</text>
+    <combatant monster="Gelatinous Cube" />
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 14. Ode to Minecraft</name>
+    <text>See PDF</text>
+    <combatant monster="Oink Zombie" label="Oink Zombie 1" />
+    <combatant monster="Oink Zombie" label="Oink Zombie 2" />
+    <combatant monster="Oink Zombie" label="Oink Zombie 3" />
+    <combatant monster="Oink Zombie" label="Oink Zombie 4" />
+    <combatant monster="Death Stalker" label="Death Stalker 1" />
+    <combatant monster="Death Stalker" label="Death Stalker 2" />
+    <combatant monster="Death Stalker" label="Death Stalker 3" />
+    <combatant monster="Death Stalker" label="Death Stalker 4" />
+
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 15. Murder Ball</name>
+    <text>See PDF</text>
+    <combatant label="Murder Ball" />
+    <combatant label="Murder Ball" />
+  </encounter>
+
+  <encounter>
+    <name>Upper Floor 18. A Friendly Gesture</name>
+    <text>See PDF</text>
+    <combatant monster="Stirge" label="Stirge 1" />
+    <combatant monster="Stirge" label="Stirge 2" />
+    <combatant monster="Stirge" label="Stirge 3" />
+    <combatant monster="Stirge" label="Stirge 4" />
+    <combatant monster="Stirge" label="Stirge 5" />
+    <combatant monster="Stirge" label="Stirge 6" />
+    <combatant monster="Stirge" label="Stirge 7" />
+    <combatant monster="Stirge" label="Stirge 8" />
+    <combatant monster="Stirge" label="Stirge 9" />
+    <combatant monster="Stirge" label="Stirge 10" />
+    <combatant monster="Stirge" label="Stirge 11" />
+    <combatant monster="Stirge" label="Stirge 12" />
+  </encounter>
+
+  <encounter>
+    <name>Lower Floor 22. Rust Monster Lair</name>
+    <text>See PDF</text>
+    <combatant monster="Rust Monster" label="Rust Monster 1" />
+    <combatant monster="Rust Monster" label="Rust Monster 2" />
+  </encounter>
+
+
+
+</campaign>
