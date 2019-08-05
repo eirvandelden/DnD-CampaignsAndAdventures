@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data version="5">
+<campaign><name>Core1-1: Inheritance</name>
+<pc><uid>194</uid><label>Tank</label><hpCurrent>0</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>3</cr></pc><pc><uid>195</uid><label>Leader</label><hpCurrent>0</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>3</cr></pc><pc><uid>196</uid><label>Striker</label><hpCurrent>0</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>3</cr></pc><pc><uid>197</uid><label>Controller</label><hpCurrent>0</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>3</cr></pc>
+<adventure><name>Inheritance</name>
+
+<encounter><name>Job Offer</name><state>0</state><current>0</current><round>0</round></encounter>
+
+<encounter><name>A City In Shadows</name><state>0</state><current>0</current><round>0</round></encounter>
+
+<encounter><name>Into The Shade</name><state>0</state><current>0</current><round>0</round></encounter>
+
+<encounter><name>Before Nightfall</name><state>0</state><current>0</current><round>0</round></encounter>
+
+<encounter><name>Under Ruble</name><state>0</state><current>0</current><round>0</round></encounter>
+
+<encounter><name>Silent Guardians</name><state>0</state><current>0</current><round>0</round><combatant><monster><enemy>1</enemy><label>Magic Crosbow Turrets 1</label><name>Brute CR1</name><size>3</size><ac>12</ac><hpMax>28</hpMax><hpCurrent>28</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><action><name>Brute CR1</name>	<attack><atk>6</atk><dmg>3+2d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Magic Crosbow Turrets 2</label><name>Brute CR1</name><size>3</size><ac>12</ac><hpMax>28</hpMax><hpCurrent>28</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><action><name>Brute CR1</name>	<attack><atk>6</atk><dmg>3+2d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Iron Cobra 1</label><name>Soldier CR 1/2</name><ac>18</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><action><name>Soldier CR1/2</name>	<attack><atk>4</atk><dmg>5+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Iron Cobra 2</label><name>Soldier CR 1/2</name><ac>18</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><action><name>Soldier CR1/2</name>	<attack><atk>4</atk><dmg>5+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Clay Scout 1</label><name>Lurker CR1</name><ac>15</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><action><name>Lurker CR1</name>	<attack><atk>6</atk><dmg>9+1d6</dmg></attack>
+</action><reaction><name>Redirect</name><text>The target must make a DC 12 Int saving throw. If it fails, it instead attacks an adjacent creature of the homonucli&#39;s choice.</text></reaction></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Clay Scout 2</label><name>Lurker CR1</name><ac>15</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><action><name>Lurker CR1</name>	<attack><atk>6</atk><dmg>9+1d6</dmg></attack>
+</action><reaction><name>Redirect</name><text>The target must make a DC 12 Int saving throw. If it fails, it instead attacks an adjacent creature of the homonucli&#39;s choice.</text></reaction></monster></combatant>
+</encounter>
+
+<encounter><name>The Vault</name><state>0</state><current>0</current><round>0</round></encounter>
+
+<encounter><name>Dark Haunts</name><state>0</state><current>0</current><round>0</round><combatant><monster><enemy>1</enemy><label>Decrepit Skeleton 1</label><name>Minion CR1/2</name><ac>16</ac><hpMax>10</hpMax><hpCurrent>10</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><trait><name>Minion Miss</name><text>A missed attack never destroys a minion.</text></trait><trait><name>Mob Attack</name><text>A minion gains +1 to attack and damage for each ally adjacent to the target</text></trait><action><name>Minion Attack</name><text>Add +1 to attack and damage for each ally of the minion adjacent to the target.</text>	<attack><atk>4</atk><dmg>8+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Decrepit Skeleton 2</label><name>Minion CR1/2</name><ac>16</ac><hpMax>10</hpMax><hpCurrent>10</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><trait><name>Minion Miss</name><text>A missed attack never destroys a minion.</text></trait><trait><name>Mob Attack</name><text>A minion gains +1 to attack and damage for each ally adjacent to the target</text></trait><action><name>Minion Attack</name><text>Add +1 to attack and damage for each ally of the minion adjacent to the target.</text>	<attack><atk>4</atk><dmg>8+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Decrepit Skeleton 3</label><name>Minion CR1/2</name><ac>16</ac><hpMax>10</hpMax><hpCurrent>10</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><trait><name>Minion Miss</name><text>A missed attack never destroys a minion.</text></trait><trait><name>Mob Attack</name><text>A minion gains +1 to attack and damage for each ally adjacent to the target</text></trait><action><name>Minion Attack</name><text>Add +1 to attack and damage for each ally of the minion adjacent to the target.</text>	<attack><atk>4</atk><dmg>8+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Decrepit Skeleton 4</label><name>Minion CR1/2</name><ac>16</ac><hpMax>10</hpMax><hpCurrent>10</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><trait><name>Minion Miss</name><text>A missed attack never destroys a minion.</text></trait><trait><name>Mob Attack</name><text>A minion gains +1 to attack and damage for each ally adjacent to the target</text></trait><action><name>Minion Attack</name><text>Add +1 to attack and damage for each ally of the minion adjacent to the target.</text>	<attack><atk>4</atk><dmg>8+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Phantom Warrior 1</label><name>Soldier CR 1/2</name><ac>18</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><action><name>Phantom Warrior Attack</name><text>On a hit, the target is marked (the marked creature has disadvantage to attacking any creature other than this one)</text>	<attack><atk>4</atk><dmg>5+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Phantom Warrior 2</label><name>Soldier CR 1/2</name><ac>18</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><action><name>Soldier CR1/2</name>	<attack><atk>4</atk><dmg>5+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Phantom Warrior 3</label><name>Soldier CR 1/2</name><ac>18</ac><hpMax>21</hpMax><hpCurrent>21</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><action><name>Soldier CR1/2</name>	<attack><atk>4</atk><dmg>5+1d6</dmg></attack>
+</action></monster></combatant>
+<combatant><monster><enemy>1</enemy><label>Dark Master Spectre</label><name>Controller CR1/2</name><ac>14</ac><hpMax>14</hpMax><hpCurrent>14</hpCurrent><hd>1d8</hd><abilities>10,10,10,10,10,10</abilities><cr>0</cr><action><name>Controller CR1/2</name><text>DC:12</text>	<attack><name>Multi</name><dmg>7+1d6</dmg></attack>
+	<attack><name>Single</name><atk>4</atk></attack>
+</action></monster></combatant>
+</encounter>
+
+<encounter><name>Back Into The Light</name><state>0</state><current>0</current><round>0</round></encounter>
+</adventure>
+<item><name>Symbol Of Life</name><detail>holy symbol</detail><text>Whenever you heal a target, you may have the target regain an additional 1d6 HP.
+
+You may use this power once per short rest.</text><magic>1</magic></item><item><name>Scroll Of Tenser&#39;s Floating Disk</name><text>As an action, you may cast Floating Disk.
+
+After casting the spell, this scroll dissipates.</text><type>13</type></item><item><name>Delver&#39;s Leather Armor</name><text>Once per Short Rest, you may gain advantage when rolling a saving throw.</text><type>1</type><ac>11</ac></item><item><name>Boots Of Elvenkind</name><text>While you wear these boots, your steps make no sound, regardless of the surface you are moving across.
+You also have advantage on Dexterity (Stealth) checks that rely on moving silently.</text></item></campaign>
+</data>
